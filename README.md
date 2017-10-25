@@ -1,5 +1,6 @@
 # hello-world
 First project
 
-Hey, welcome!
-I'm studying a branch of Informatics at university, and a beginner at coding.
+Oh hi there!
+
+My name is Joana, I'm 19 years old and I'm a studying Graphical Computation. I'm willing to learn new things, and hoping to enter in an interesting journey. Welcome!
